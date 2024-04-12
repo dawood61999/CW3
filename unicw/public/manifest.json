@@ -1,0 +1,21 @@
+{
+    "name": "After School Classes",
+    "short_name": "After School",
+    "icons": [
+      {
+        "src": "/image/logo1.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/image/logo2.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff"
+  }
+  
